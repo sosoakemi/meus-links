@@ -63,6 +63,16 @@ body {
     font-weight: 700;
     font-size: 14px;
     line-height: 21px;
-    
+
+  }
+
+  div a:hover {
+    background-color:#be3b72;
+    color: rgb(255, 192, 203);
+    transition: 0.7s;
+
+
+
+
   }
     
